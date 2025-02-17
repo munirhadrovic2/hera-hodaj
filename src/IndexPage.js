@@ -27,7 +27,7 @@ const IndexPage = () => {
             alt="Main Visual"
             className="w-full max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-2xl mx-auto rounded-lg shadow-xl"
           />
-          <p className="mt-4 text-white text-2xl">Nedžo - Pile, nađi me</p>
+          <p className="mt-4 text-white text-2xl">Hera - Hodaj</p>
         </div>
 
         {/* DSP icons with full clickable buttons */}
