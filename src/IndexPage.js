@@ -35,7 +35,7 @@ const IndexPage = () => {
           <div className="space-y-4">
             {/* YouTube */}
             <a
-              href="https://youtu.be/hlQgR15OHHA" // YouTube link
+              href="https://www.youtube.com/watch?v=VnWyyNcMP7s" // YouTube link
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -53,7 +53,7 @@ const IndexPage = () => {
 
             {/* YouTube Music */}
             <a
-              href="https://music.youtube.com/watch?v=_pLR9W9qYg4&si=FVyfcDGg52tvZ1lR"
+              href="https://music.youtube.com/watch?v=98b5vjBVypI&si=05RGcp08m66-sELq"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -71,7 +71,7 @@ const IndexPage = () => {
 
             {/* Spotify */}
             <a
-              href="https://open.spotify.com/album/6GSeK26DFpTslKACvGHVnk" // Spotify link
+              href="https://open.spotify.com/album/2CK8ESi8fWwe8q621yFFZ9" // Spotify link
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -89,7 +89,7 @@ const IndexPage = () => {
 
             {/* SoundCloud */}
             <a
-              href="https://soundcloud.com/nedzo-music/pile-na-i-me" // SoundCloud link
+              href="https://soundcloud.com/hera69527/hodaj" // SoundCloud link
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -107,7 +107,7 @@ const IndexPage = () => {
 
             {/* Apple Music */}
             <a
-              href="https://music.apple.com/us/album/pile-na%C4%91i-me-single/1796035484" // Apple Music link
+              href="https://music.apple.com/us/album/hodaj-single/1794136789" // Apple Music link
               target="_blank"
               rel="noopener noreferrer"
               className="block"
